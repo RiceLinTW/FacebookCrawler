@@ -1,0 +1,7 @@
+{
+    "graphAPIBase":"https://graph.facebook.com/v2.8/",
+    "clientId":"x",
+    "clientSecret":"x",
+    "pageId":"x",
+    "fetchingInterval":3600 // seconds
+}
